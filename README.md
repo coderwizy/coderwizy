@@ -1,6 +1,6 @@
 👨‍💻 About Me
 
-I'm Sam Peter | Cybersecurity Builder | Termux Dev | Digital Warrior
+I'm Sandy | Cybersecurity Builder | Termux Dev | Digital Warrior
 
 Welcome to my GitHub — your gateway into cyber defense, automation, digital entrepreneurship, and Termux wizardry 🔥
 
@@ -63,8 +63,6 @@ Skills:        DevSecOps · Social Engineering · Web Security · AI Automation
 ---
 
 💬 Let’s Connect
-
-📸 Instagram: @insta_sampeter (sample)
 
 🧠 Projects: Always building, always upgrading
 
