@@ -62,11 +62,25 @@ Skills:        DevSecOps · Social Engineering · Web Security · AI Automation
 
 ---
 
-💬 Let’s Connect
+📊 GitHub Stats
 
-🧠 Projects: Always building, always upgrading
+ 
 
-🇮🇳 Motto: Jai Hind | Rise by Lifting Others
+
+---
+
+🛠️ Tools & Badges
+
+     
+
+
+---
+
+🔗 Quick Links
+
+🚀 CyberShield Installer
+
+🌐 Website: [Coming Soon]
 
 
 
