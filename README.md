@@ -1,111 +1,97 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Goku Power Up" width="400"/>
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    <span style="color: green; font-size: 20px;">Welcome To My Bio</span>
+  </marquee>
 </p>
 
-# 👨‍💻 About Me
+# 👋 Hey there! I'm **CoderWizy** 🛡️⚔️
 
-I'm Sandy | Cybersecurity Builder | Termux Dev | Digital Warrior ⚔️
-
-Welcome to my GitHub — your gateway into cyber defense, automation, digital entrepreneurship, and Termux wizardry 🔥
+<img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Enthusiast;DevSecOps+Specialist;Full-Stack+Developer;Linux+&+Termux+User;Business+and+Tech+Explorer;Always+Improving+🚀" width="100%"/>
 
 ---
 
-As a marketing expert, business guide, solopreneur, and gaming enthusiast (Minecraft 🥰), I have a passion for side hustles and believe in **continuous learning, self-reliance, and excellence**.
+## 🧑‍💻 About Me
 
-I’m also a **security-aware Full-stack Web & Mobile Developer (iOS/Android)** proficient in DevSecOps and deeply engaged in security engineering across Cloud, Automation, Data, and Privacy. I integrate security into development lifecycles and possess a strong foundation in building and maintaining secure applications and infrastructure.
-
----
-
-## 🛡️ What I Do
-
-- 🔐 Ethical hacking & cyber defense tools (e.g., IG-Defender, CyberShield)
-- ⚙️ Termux-based automation & tracking systems
-- 📱 Helping victims of cyberbullying via secure scripts
-- 🌐 OSINT, IP tracking, phishing awareness & spoof detection
-- 🧠 AI + code to build powerful digital side hustles
-- 💡 E-commerce, dropshipping, ClickBank, digital product marketing
+I'm a versatile developer focused on **cybersecurity 🛡️**, business automation 💼, and full-stack development 💻.  
+I work on practical security tools, business automation scripts, and mobile/web projects 📱🌐.  
+Currently improving my skills in **cloud security ☁️**, advanced automation 🤖, and AI-driven systems 🤯.
 
 ---
 
-## 💥 Skill Levels & Tech Stack
+## 🚀 Skills (Intermediate)
 
-### ⚔️ Languages & Frameworks
-
-- Bash ⭐⭐⭐⭐✰
-- Python ⭐⭐⭐⭐✰
-- JavaScript ⭐⭐⭐✰✰
-- HTML / CSS ⭐⭐⭐⭐✰
-- PHP ⭐⭐⭐✰✰
-
-### 💻 Environments & Tools
-
-- Termux ⭐⭐⭐⭐⭐
-- Linux (ParrotOS) ⭐⭐⭐⭐⭐
-- Android Dev ⭐⭐⭐⭐✰
-- Web Security & DevSecOps ⭐⭐⭐⭐✰
-- Cloud & Automation ⭐⭐⭐✰✰
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Termux](https://img.shields.io/badge/-Termux-05122A?style=flat&logo=termux)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Security](https://img.shields.io/badge/-Security-05122A?style=flat&logo=datadog)
+![Business Automation](https://img.shields.io/badge/-Business%20Automation-05122A?style=flat&logo=matrix)
 
 ---
 
-## 🚀 Highlights
+## ⚡ Graph: Learning & Growth
 
-- 🧠 Self-taught ethical hacker & full-stack Termux developer
-- 💥 Flexing Termux GUI bash scripts with professional finish
-- 🛠️ Multi-tool frameworks for real-world cyber help
-- 📦 Digital marketing strategies, e-com & side hustle mastery
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderwizy&theme=tokyonight&utcOffset=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwizy&theme=tokyo-night&area=true&hide_border=true&custom_title=Business+%26+Cybersecurity+Growth" />
+</p>
+
+---
+
+## 💣 Tools & Projects
+## 🧰 My Toolstack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-Oblivion--Gate-0a0a0a?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/🛡️-IG%20Defender-0a0a0a?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚔️-HackerCLI-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔥-CyberShield-0a0a0a?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/💣-CyberTools-0a0a0a?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</p>
+
+<p align="center">
+  🚀 <b>Oblivion-Gate</b> — Advanced simulation toolkit <br>
+  🛡️ <b>IG Defender</b> — Automated abuse reporting tool <br>
+  ⚔️ <b>HackerCLI</b> — Command-line hacking simulation environment <br>
+  🔥 <b>CyberShield</b> — Personal cyber defense & audit script <br>
+  💣 <b>CyberTools</b> — Multifunctional hacker-style toolkit
+</p>
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coderwizy&theme=darkhub&no-bg=true&no-frame=true&title=MultiLanguage,Followers,Stars,Commit,Repositories,PullRequest" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderwizy&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwizy&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=coderwizy&show_icons=true&theme=tokyonight" alt="coderwizy stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderwizy&theme=tokyonight" alt="coderwizy streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderwizy&theme=tokyonight" />
 </p>
 
 ---
 
-## 🛠️ Tools & Badges
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Termux-000000?style=flat&logo=termux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ParrotOS-0084FF?style=flat&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevSecOps-blueviolet?style=flat"/>
-  <img src="https://img.shields.io/badge/AI-Automation-orange"/>
-</p>
+> 💬 _"I only make tools for Cybersecurity, for helping the needy & only for ethical purposes. Stay safe, stay ethical, keep learning."_ 🔒⚡
 
 ---
 
-## 🧰 Projects You’ll Find Here
-
-| Tool / Project            | Description                                                         |
-|---------------------------|---------------------------------------------------------------------|
-| **CyberShield**           | Multi-tool to counter online abuse, stalkers & cybercriminals 👨‍💻 |
-| **IG Defender**           | Insta abuse reporting with logs & GUI for victim support           |
-| **Insta Stalker Detector**| Detect fake viewers, impersonators & silent stalkers               |
-| **Phone OSINT Tracker**   | Collect partial data of target numbers for awareness ⚠️         |
-| **FIR PDF Generator**     | Auto-fill cyber FIR forms for quick action                        |
-
----
-
-## 📌 Quote
-
-> "Tools don’t harm people. But the right tools in the right hands protect thousands." 💙
-
----
-
-## ⭐ Bonus Tools (Coming Soon)
-
-- ⚠️ Link Click Alert Logger
-- 🎙️ Voice Threat Recorder
-- 💼 Job Offer Scam Phisher Detector
-- 🛡️ ShieldGuard: Victim Self-Defense Panel
-
----
-
-🇮🇳 **JAI HIND!**
-
+## 🇮🇳 Jai Hind 🇮🇳
