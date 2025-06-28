@@ -1,51 +1,34 @@
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10">
-    <span style="color: green; font-size: 20px;">Welcome To My Bio</span>
-  </marquee>
-</p>
-
-# 👋 Hey there! I'm **Sandy** 
-
----
-
-## 🧑‍💻 About Me
-
-I'm a versatile developer focused on **cybersecurity 🛡️**, business automation 💼, and full-stack development 💻.  
-I work on practical security tools, business automation scripts, and mobile/web projects 📱🌐.  
-Currently improving my skills in **cloud security ☁️**, advanced automation 🤖, and AI-driven systems 🤯.
-
----
-
-## 🚀 Skills (Intermediate)
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Termux](https://img.shields.io/badge/-Termux-05122A?style=flat&logo=termux)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Security](https://img.shields.io/badge/-Security-05122A?style=flat&logo=datadog)
-![Business Automation](https://img.shields.io/badge/-Business%20Automation-05122A?style=flat&logo=matrix)
-
----
-
-## ⚡ Graph: Learning & Growth
+<h1 align="center">👋 Hey there, I'm <span style="color:#39FF14;">Sandy</span> 🛡️</h1>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderwizy&theme=tokyonight&utcOffset=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwizy&theme=tokyo-night&area=true&hide_border=true&custom_title=Business+%26+Cybersecurity+Growth" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" />
 </p>
 
 ---
 
-## 💣 Tools & Projects
-## 🧰 My Toolstack
+## 🟢 About Me
+
+🚀 Full-Stack Web & Mobile Developer (iOS/Android)  
+💡 Cybersecurity enthusiast — hacking research, digital forensics, automation  
+⚔️ Business strategist, marketer, and solopreneur  
+🎮 Gaming & side hustles, always exploring new skills
+
+I love integrating security into dev lifecycles, building impactful digital products, and empowering people through tech.  
+"Learn → Build → Share → Repeat" is my mantra.  
+
+---
+
+## ◈━ Skills & Stack ━◈
+
+🧑‍💻 Languages: Python, Bash, JavaScript, SQL, HTML/CSS  
+🔐 Security: Web & app pentesting, phishing defense, Termux mastery  
+💥 Automation: Custom bots, CLI tools, digital business workflows  
+🌐 Frameworks: Node.js, React, Django, Flask  
+📱 Mobile: Flutter, Android modding (old), Swift basics
+
+---
+
+## ◈━ Featured Tools ━◈
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀-Oblivion--Gate-0a0a0a?style=for-the-badge&logo=terminal&logoColor=white" />
@@ -55,41 +38,44 @@ Currently improving my skills in **cloud security ☁️**, advanced automation 
   <img src="https://img.shields.io/badge/💣-CyberTools-0a0a0a?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </p>
 
-<p align="center">
-  🚀 <b>Oblivion-Gate</b> — Advanced simulation toolkit <br>
-  🛡️ <b>IG Defender</b> — Automated abuse reporting tool <br>
-  ⚔️ <b>HackerCLI</b> — Command-line hacking simulation environment <br>
-  🔥 <b>CyberShield</b> — Personal cyber defense & audit script <br>
-  💣 <b>CyberTools</b> — Multifunctional hacker-style toolkit
-</p>
 ---
 
-## 🏆 GitHub Trophies
+## ◈━ My Visual Stack ━◈
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderwizy&theme=darkhub&no-bg=true&no-frame=true&title=MultiLanguage,Followers,Stars,Commit,Repositories,PullRequest" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,html,css,js,nodejs,react,flutter,django,github,git" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ◈━ Stats & Contributions ━◈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderwizy&show_icons=true&theme=tokyonight" alt="coderwizy stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coderwizy&show_icons=true&theme=radical" alt="Sandy stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderwizy&theme=tokyonight" alt="coderwizy streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderwizy&theme=radical" alt="Sandy streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderwizy&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderwizy&theme=radical" />
 </p>
 
 ---
 
-> 💬 _"I only make tools for Cybersecurity, for helping the needy & only for ethical purposes. Stay safe, stay ethical, keep learning."_ 🔒⚡
+## ◈━ Let's Connect ━◈
+
+<p align="center">
+  <a href="https://discord.com/og_wizy" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-OG_WIZY-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🇮🇳 Jai Hind 🇮🇳
+> 💬 _"I only build tools for Cybersecurity, to help others, and for purely ethical purposes. Stay safe, stay ethical, keep learning."_ 🔒⚡
+
+---
+
+<h3 align="center">🇮🇳 Jai Hind 🇮🇳</h3>
