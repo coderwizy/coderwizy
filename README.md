@@ -4,7 +4,7 @@
   </marquee>
 </p>
 
-# 👋 Hey there! I'm **CoderWizy** 🛡️⚔️
+# 👋 Hey there! I'm **Sandy** 🛡️
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Enthusiast;DevSecOps+Specialist;Full-Stack+Developer;Linux+&+Termux+User;Business+and+Tech+Explorer;Always+Improving+🚀" width="100%"/>
 
