@@ -10,12 +10,6 @@ Welcome to my GitHub — your gateway into cyber defense, automation, digital en
 
 ---
 
-## 🧬 Detailed Bio
-
-I am a dynamic and multifaceted professional with expertise spanning **digital marketing (SMM, SMMA, e-commerce, ClickBank, freelancing)**, dropshipping, and reselling. Skilled in developing and selling digital products, I bring a strong foundation in business management, mentoring, and innovative strategies.
-
-With advanced proficiency in **AI, programming, and web development**, I create impactful websites and manage digital platforms, including Instagram theme pages. My background also includes graphic design, video editing, bot designing, and APK modding (now discontinued). I am well-versed in **Linux (ParrotOS), web security, phishing, PC/Android accessing, and Termux**, and I’m an expert in various aspects of hacking (learning), cracking, and digital security.
-
 As a marketing expert, business guide, solopreneur, and gaming enthusiast (Minecraft 🥰), I have a passion for side hustles and believe in **continuous learning, self-reliance, and excellence**.
 
 I’m also a **security-aware Full-stack Web & Mobile Developer (iOS/Android)** proficient in DevSecOps and deeply engaged in security engineering across Cloud, Automation, Data, and Privacy. I integrate security into development lifecycles and possess a strong foundation in building and maintaining secure applications and infrastructure.
