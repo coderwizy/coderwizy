@@ -1,5 +1,5 @@
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10">
+  <marquee> behavior="scroll" direction="left" scrollamount="10">
     <span style="color: green; font-size: 20px;">Welcome To My Bio</span>
   </marquee>
 </p>
