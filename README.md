@@ -72,16 +72,6 @@ _**"Learn → Build → Share → Repeat" is my mantra.**_ 🔁⚡
 
 ---
 
-## 🤝 ◈━ Let's Connect ━◈
-
-<p align="center">
-  <a href="https://discord.com/og_wizy" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-OG_WIZY-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
-
----
-
 > 💬 _"I only build tools for cybersecurity, to help others, and for purely ethical purposes. Stay safe, stay ethical, keep learning."_ 🔒⚡
 
 ---
