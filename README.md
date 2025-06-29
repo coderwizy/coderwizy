@@ -48,6 +48,60 @@ _**"Learn → Build → Share → Repeat" is my mantra.**_ 🔁⚡
 
 ---
 
+## 🛰️ ◈━ Protocol Arsenal ━◈
+
+<p align="center">
+  <img src="https://img.shields.io/badge/👻-Ghost%20Protocol-0a0a0a?style=for-the-badge&logo=ghost&logoColor=white" />
+  <img src="https://img.shields.io/badge/🖤-Obsidian%20Dome-0a0a0a?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚡-Alpha%20Strike-0a0a0a?style=for-the-badge&logo=zap&logoColor=white" />
+  <img src="https://img.shields.io/badge/💀-Shadowfall-0a0a0a?style=for-the-badge&logo=skull&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔥-Ragnarok%20Mode-0a0a0a?style=for-the-badge&logo=fire&logoColor=white" />
+</p>
+
+👻 **Ghost Protocol** — Stealth ops, silent recon, vanish like a shadow.  
+🖤 **Obsidian Dome** — Ultra-hard defenses, blackhole traps, zero breach tolerance.  
+⚡ **Alpha Strike** — Rapid offensive ops (ethical), tactical breach simulation.  
+💀 **Shadowfall** — Covert red team missions, deep system infiltration (for research).  
+🔥 **Ragnarok Mode** — Full-scale cyber stress tests & meltdown simulations.
+
+---
+
+## 🛡️ ◈━ Defensive Tactics ━◈
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🛡️-Fortify%20All-0a0a0a?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/💣-Countermeasures-0a0a0a?style=for-the-badge&logo=biohazard&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔎-Trace%20%26%20Hunt-0a0a0a?style=for-the-badge&logo=search&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚔️-Simulated%20Warfare-0a0a0a?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/☢️-Zero%20Trust-0a0a0a?style=for-the-badge&logo=radiation&logoColor=white" />
+</p>
+
+🛡️ **Fortify All Layers** — App, network, human.  
+💣 **Active Countermeasures** — Automated detection & pushback.  
+🔎 **Trace & Hunt** — Forensic-level incident analysis.  
+⚔️ **Simulated Warfare** — Red vs blue team battle drills.  
+☢️ **Zero Trust Core** — Trust no one, verify everything.
+
+---
+
+## ⚔️ ◈━ Arsenal Dome ━◈
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-Oblivion%20Gate-0a0a0a?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/🛡️-IG--Defender%20PRO-0a0a0a?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔥-CyberShield-0a0a0a?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚔️-HackerCLI-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/💣-CyberTools-0a0a0a?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</p>
+
+🚀 **Oblivion Gate** — All-in-one automation & defense scripts.  
+🛡️ **IG-Defender PRO** — Abuse reporting, community shielding.  
+🔥 **CyberShield** — Complete system protection suite.  
+⚔️ **HackerCLI** — Realistic hacking simulation playground.  
+💣 **CyberTools** — Custom exploit labs & learning modules.
+
+---
+
 ## 📊 ◈━ Stats & Contributions ━◈
 
 <p align="center">
