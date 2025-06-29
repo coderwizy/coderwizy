@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#39FF14;">Sandy</span> 🛡️</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#39FF14;"><b>Sandy</b></span> 🛡️</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" />
@@ -8,27 +8,27 @@
 
 ## 🟢 About Me
 
-🚀 Full-Stack Web & Mobile Developer (iOS/Android)  
-💡 Cybersecurity enthusiast — hacking research, digital forensics, automation  
-⚔️ Business strategist, marketer, and solopreneur  
-🎮 Gaming & side hustles, always exploring new skills
+🚀 **Full-Stack Web & Mobile Developer (iOS/Android)**  
+💡 **Cybersecurity Enthusiast** — hacking research, digital forensics, automation  
+⚔️ **Business Strategist, Marketer & Solopreneur**  
+🎮 Gaming, side hustles & always learning new skills
 
-I love integrating security into dev lifecycles, building impactful digital products, and empowering people through tech.  
-"Learn → Build → Share → Repeat" is my mantra.  
-
----
-
-## ◈━ Skills & Stack ━◈
-
-🧑‍💻 Languages: Python, Bash, JavaScript, SQL, HTML/CSS  
-🔐 Security: Web & app pentesting, phishing defense, Termux mastery  
-💥 Automation: Custom bots, CLI tools, digital business workflows  
-🌐 Frameworks: Node.js, React, Django, Flask  
-📱 Mobile: Flutter, Android modding (old), Swift basics
+I love integrating security into development lifecycles, building impactful products, and empowering others through tech.  
+_**"Learn → Build → Share → Repeat" is my mantra.**_ 🔁⚡
 
 ---
 
-## ◈━ Featured Tools ━◈
+## 💻 ◈━ Skills & Stack ━◈
+
+🧑‍💻 **Languages:** Python, Bash, JavaScript, SQL, HTML/CSS  
+🔐 **Security:** Pentesting, phishing defense, Termux mastery, automation  
+💥 **Automation:** Custom bots, CLI tools, business workflows  
+🌐 **Frameworks:** Node.js, React, Django, Flask  
+📱 **Mobile:** Flutter, Android modding (legacy), Swift basics
+
+---
+
+## 🚀 ◈━ Featured Tools ━◈
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀-Oblivion--Gate-0a0a0a?style=for-the-badge&logo=terminal&logoColor=white" />
@@ -40,15 +40,15 @@ I love integrating security into dev lifecycles, building impactful digital prod
 
 ---
 
-## ◈━ My Visual Stack ━◈
+## 🎨 ◈━ My Visual Stack ━◈
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,html,css,js,nodejs,react,flutter,django,github,git" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,html,css,js,nodejs,react,flutter,django,github,git,tailwind" />
 </p>
 
 ---
 
-## ◈━ Stats & Contributions ━◈
+## 📊 ◈━ Stats & Contributions ━◈
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coderwizy&show_icons=true&theme=radical" alt="Sandy stats" />
@@ -64,7 +64,15 @@ I love integrating security into dev lifecycles, building impactful digital prod
 
 ---
 
-## ◈━ Let's Connect ━◈
+## ⚡ ◈━ GitHub Trophies ━◈
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coderwizy&theme=radical&no-frame=true&title=MultiLanguage,Commits,Stars,Repositories,Followers" />
+</p>
+
+---
+
+## 🤝 ◈━ Let's Connect ━◈
 
 <p align="center">
   <a href="https://discord.com/og_wizy" target="_blank">
@@ -74,7 +82,7 @@ I love integrating security into dev lifecycles, building impactful digital prod
 
 ---
 
-> 💬 _"I only build tools for Cybersecurity, to help others, and for purely ethical purposes. Stay safe, stay ethical, keep learning."_ 🔒⚡
+> 💬 _"I only build tools for cybersecurity, to help others, and for purely ethical purposes. Stay safe, stay ethical, keep learning."_ 🔒⚡
 
 ---
 
