@@ -121,7 +121,7 @@ _**"Learn → Build → Share → Repeat" is my mantra.**_ 🔁⚡
 ## ⚡ ◈━ GitHub Trophies ━◈
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderwizy&theme=radical&no-frame=true&title=MultiLanguage,Commits,Stars,Repositories,Followers" />
+  <img src="https://github-profile-trophy.vercel.app/?username=coderwizy&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6" />
 </p>
 
 ---
